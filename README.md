@@ -1,2 +1,2 @@
 # Flag-of-laos
-flag
+flag-CSS
